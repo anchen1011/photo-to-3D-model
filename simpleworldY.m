@@ -1,5 +1,5 @@
-% 6.869 Advances in Computer Vision
-% PSET 1
+% Base code provided by Advances in Computer Vision, MIT CSAIL
+% Completed and modified by Baian Chen, 2016.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 close all
