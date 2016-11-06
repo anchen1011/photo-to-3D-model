@@ -13,5 +13,5 @@ Helper function
 Load data back into workspace
 
 
-Base code from MIT6.819, permission obtained
+Base code from MIT CSAIL, Advances in Computer Vision, permission obtained
 
